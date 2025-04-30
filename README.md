@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with a strong focus on building scalable w
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiKutar0&show_icons=true&hide_title=true&hide=issues&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaiKutar0&show_icons=true&hide_title=true&hide=issues&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiKutar0&layout=compact&theme=radical)
 
