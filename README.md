@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with a strong focus on building scalable w
 - **API:** GraphQL, REST
 - **Database:** MySQL, PostgreSQL
 - **Cloud & DevOps:** AWS (Lambda, S3, CloudFront, RDS), Docker
-- **Tools:** Git, GitHub, Postman, Prisma, ESLint, Prettier
+- **Tools:** Git, GitHub, Postman, Prisma, ESLint, Prettier, Docker
 
 ---
 
@@ -27,7 +27,6 @@ I'm a passionate Full Stack Developer with a strong focus on building scalable w
 ### 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/yurii-vasylchenko-1677b9275/](https://www.linkedin.com/in/yurii-vasylchenko-1677b9275/)
-- Portfolio: [yurii-vasylchenko.netlify.app](https://yurii-vasylchenko.netlify.app/)
 
 ---
 
